@@ -1,6 +1,3 @@
-This is a great request. A `README.md` file is essential for documenting and explaining your code to others (or your future self).
-
-Here is a comprehensive `README.md` based on the Python script you provided, detailing its purpose, structure, and execution flow, including the necessary fixes discussed previously.
 
 ---
 
